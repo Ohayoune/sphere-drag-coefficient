@@ -12,12 +12,12 @@ Xinyu Zhu, Eli Ohayon, Vishal Panthangi, Mason Chin
 ## The setup
 
 <p align="center">
-  <img src="photos/drop-site-meter-stick.jpg" alt="A team member standing next to the calibration meter stick at the bottom of the drop" width="45%">
+  <img src="photos/drop-site-meter-stick.jpg" alt="Me with the setup" width="45%">
   &nbsp;
-  <img src="photos/preparing-the-balls.jpg" alt="Two team members preparing a sugar-filled ping pong ball for a drop" width="45%">
+  <img src="photos/preparing-the-balls.jpg" alt="Me and Mason with the sugar-filled balls" width="45%">
 </p>
 
-*Left: the meter stick in the plane of the fall, used to convert the video from pixels to meters. Right: getting a sugar-filled ping pong ball ready to drop.*
+*Left: Me with the setup. Right: Me and Mason with the sugar-filled balls.*
 
 ## What's in this repository
 
