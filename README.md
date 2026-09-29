@@ -1,6 +1,6 @@
 # Measuring the Drag Coefficient of a Sphere
 
-We dropped ping pong balls of different masses down a 12 m stairwell, filmed them falling, and measured how much air resistance slows a sphere. Our measured drag coefficient, **0.458 ± 0.078**, is within 3 % of the textbook value of 0.47.
+We dropped ping pong balls of different masses down 4 floors (12 meters) of the protected side of a parking garage, filmed them falling, and measured how much air resistance slows a sphere. Our measured drag coefficient, **0.458 ± 0.078**, is within 3 % of the textbook value of 0.47.
 
 **Bellevue College · PHY 123 (Physics 3) · Spring 2026**
 Xinyu Zhu, Eli Ohayon, Vishal Panthangi, Mason Chin
@@ -8,6 +8,16 @@ Xinyu Zhu, Eli Ohayon, Vishal Panthangi, Mason Chin
 [![Research poster: Measuring the Drag Coefficient of a Sphere](02-final-experiment/poster.png)](02-final-experiment/poster.pdf)
 
 *Click the poster to open the full-resolution PDF.*
+
+## The setup
+
+<p align="center">
+  <img src="photos/drop-site-meter-stick.jpg" alt="A team member standing next to the calibration meter stick at the bottom of the drop" width="45%">
+  &nbsp;
+  <img src="photos/preparing-the-balls.jpg" alt="Two team members preparing a sugar-filled ping pong ball for a drop" width="45%">
+</p>
+
+*Left: the meter stick in the plane of the fall, used to convert the video from pixels to meters. Right: getting a sugar-filled ping pong ball ready to drop.*
 
 ## What's in this repository
 
